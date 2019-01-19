@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     SQLiteDatabase db;
     Button _btnreg, _btnlogin;
     EditText _txtfname, _txtlname, _txtpass, _txtemail, _txtphone;
-
+what is sdsde
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

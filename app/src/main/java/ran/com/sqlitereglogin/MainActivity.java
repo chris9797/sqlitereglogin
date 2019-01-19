@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     Button _btnreg, _btnlogin;
     EditText _txtfname, _txtlname, _txtpass, _txtemail, _txtphone;
     @Override
+    asdsadsada
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
